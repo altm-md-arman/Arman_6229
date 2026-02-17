@@ -1,4 +1,7 @@
 class A{
    int a=10;
    String name="Md Arman";
+
+Jira 102
+string name="Md";
 }
