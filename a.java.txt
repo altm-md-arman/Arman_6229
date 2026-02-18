@@ -1,11 +1,7 @@
 class A{
    int a=10;
    String name="Md Arman";
-<<<<<<< Updated upstream
-
 Jira 102
 string name="Md";
-=======
 int b=101;
->>>>>>> Stashed changes
 }
