@@ -1,15 +1,12 @@
 class A{
    public static void main String(args[]){
          System.out.println("Arman_6229");
-<<<<<<< Updated upstream
-=======
+
         String name="Arman";
         String name="java is a lang";
         int a=10;
         String note="java is a good language";
         int c=40;
 
-
->>>>>>> Stashed changes
 }
 }
