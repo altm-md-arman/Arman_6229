@@ -3,7 +3,8 @@ class A{
          System.out.println("Arman_6229");
         String name="Arman";
         String name="java is a lang";
-int a=10;
+        int a=10;
+        String note="java is a good language";
 
 
 }
