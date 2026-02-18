@@ -7,6 +7,4 @@ class A{
    int b=101;Jira 102;
    String name="Mdarman@123";
 
-   String java="java is the best language in our backend development";
-
 }}
